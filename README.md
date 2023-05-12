@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nishannb. 
-- 👀 I’m interested in learning new technology and building new products. 
-- 🌱 I’m currently learning Swift.
-- 💞️ I’m looking to collaborate on building Web development project (preference MERN stack)
+- 👀 I’m interested in learning & working on new technology and building new products. 
+- 💞️ Web & Mobile Development
 - 📫 How to reach me: Email me on nishanbaral987@gmail.com
 - JavaScript, Python, HTML, CSS, Swift, Docker, No-SQL(Mongodb, Firebase), SQL (MYSQL, Postgres)
+- Frameworks: Django, React, React Native, fastAPI, Angular
 - Reach out to me if you have any project ideas or need a helping hand in any project. Interested in learning anything new or old. 
 <!---
 Nishannb/Nishannb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
