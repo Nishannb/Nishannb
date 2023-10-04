@@ -3,7 +3,7 @@
 - 💞️ Web & Mobile Development
 - 📫 How to reach me: Email me on nishanbaral987@gmail.com
 - JavaScript, Python, HTML, CSS, Swift, Docker, No-SQL(Mongodb, Firebase), SQL (MYSQL, Postgres)
-- Frameworks: Django, React, React Native, fastAPI, Angular
+- Frameworks: Django, React, React Native, fastAPI, Angular, Vue JS
 - Reach out to me if you have any project ideas or need a helping hand in any project. Interested in learning anything new or old. 
 <!---
 Nishannb/Nishannb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
